@@ -1,0 +1,4 @@
+{
+	"clangd.args": ["-Wall"],
+	"diagnostic.refreshOnInsertMode": true
+}
